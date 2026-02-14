@@ -11,6 +11,9 @@ class EMP1
         if (number % 2 == 0) {
             System.out.println(number + " is Even");
         } else {
-            System.out.println(number + " Given number is  : Odd");
+
+           
+            System.out.println(number + " Given number is Odd Number ");
+
 
 }
