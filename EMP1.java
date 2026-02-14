@@ -14,6 +14,16 @@ class EMP1
 
            
             System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");
+	   System.out.println(number + " Given number is Odd Number ");  
+	System.out.println(number + " Given number is Odd Number ");
+	
+
+	
 
 
 }
