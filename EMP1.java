@@ -6,4 +6,11 @@ class EMP1
              System.out.println("Hello dear");
 
 	}
+ int number = 10;
+
+        if (number % 2 == 0) {
+            System.out.println(number + " is Even");
+        } else {
+            System.out.println(number + " is Odd");
+
 }
